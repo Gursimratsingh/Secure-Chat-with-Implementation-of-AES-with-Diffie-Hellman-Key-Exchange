@@ -1,0 +1,16 @@
+{
+  "name": "diff-hell",
+  "version": "1.0.0",
+  "description": "Diffie-Hellman Algo. Implementation",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "Shubhadeep Das",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3",
+    "node-forge": "^0.7.4",
+    "socket.io": "^2.0.4"
+  }
+}
